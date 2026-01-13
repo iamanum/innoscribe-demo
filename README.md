@@ -107,74 +107,10 @@ src/
    └─ actionParser.ts
 
 
-🚀 **Getting Started**
-1️⃣ **Clone the Repository**
+
+## 🚀 Getting Started
+1️⃣ ### Clone the Repository
 bash
 Copy code
 git clone https://github.com/your-username/innoscribe-command-center.git
 cd innoscribe-command-center
-2️⃣ **Install Dependencies**
-bash
-Copy code
-npm install
-3️⃣ **Run Development Server**
-bash
-Copy code
-npm run dev
-Open http://localhost:3000 in your browser.
-
-4️⃣ Build for Production
-bash
-Copy code
-npm run build
-npm run start
-
-🎯 **Demo Flow (Recommended)**
-➕ **Add a Client**
-text
-Copy code
-Add client Robinson from Innoscribe
-✔ Client appears instantly on the dashboard.
-
-📅 **Schedule a Meeting**
-text
-Copy code
-Schedule a meeting with Robinson tomorrow at 10 AM
-✔ Meeting is created and displayed live.
-
-📈 **Analyze System Status**
-text
-Copy code
-Analyze system status
-✔ Dashboard updates with “System Optimized” feedback.
-
-📌 **Important Notes**
-This is a front-end simulation demo (no backend or database).
-
-All state changes are handled via React.
-
-Designed specifically for:
-
-Enterprise demos
-
-Agentic AI concept validation
-
-Client interviews & sales presentations
-
-Rapid proof-of-capability delivery
-
-👩‍💻 **Author**
-Anum Munir
-Founder · Product Owner · Agentic AI Architect
-
-Specialized in:
-
-Agentic & Autonomous AI systems
-
-Enterprise-grade demos
-
-High-impact client-closing prototypes
-
-Rapid AI product execution
-
-Building intelligent, autonomous systems that drive business value from Day One.
