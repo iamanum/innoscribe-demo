@@ -108,9 +108,3 @@ src/
 
 
 
-## 🚀 Getting Started
-1️⃣ ### Clone the Repository
-bash
-Copy code
-git clone https://github.com/your-username/innoscribe-command-center.git
-cd innoscribe-command-center
