@@ -10,9 +10,9 @@
 
 import { useState } from "react";
 import { motion } from "framer-motion";
-import Dashboard from "@/components/Dashboard";
-import ChatInterface from "@/components/ChatInterface";
-import { parseAgenticAction, AgenticAction } from "@/lib/actionParser";
+import Dashboard from "../components/Dashboard";
+import ChatInterface from "../components/ChatInterface";
+import { parseAgenticAction, AgenticAction } from "../lib/actionParser";
 
 
 // Types for local state
