@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/**
+ * Innoscribe 2026 Global Theme
+ * Blue/White/Slate palette inspired by modern enterprise SaaS.
+ * Centralized tokens for consistent branding.
+ */
+:root {
+  --innoscribe-blue: #1E3A8A;   /* Deep enterprise blue */
+  --innoscribe-slate: #334155;  /* Slate gray for text */
+  --innoscribe-white: #FFFFFF;  /* Clean white background */
+  --innoscribe-accent: #3B82F6; /* Accent blue for highlights */
+  --innoscribe-muted: #F1F5F9;  /* Muted panel background */
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  @apply bg-[var(--innoscribe-white)] text-[var(--innoscribe-slate)] font-sans;
+}
+
+/* Reusable enterprise utilities */
+.card {
+  @apply bg-white rounded-xl shadow-sm;
+}
+
+.panel {
+  @apply bg-[var(--innoscribe-muted)] rounded-xl shadow-sm;
+}

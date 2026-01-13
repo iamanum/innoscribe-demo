@@ -1,0 +1,15 @@
+/**
+ * Extended Theme (Optional)
+ * If you want to add more semantic tokens or utility classes,
+ * keep them here to avoid cluttering globals.css.
+ */
+
+:root {
+  --card-radius: 12px;
+  --shadow-soft: 0 2px 10px rgba(0, 0, 0, 0.06);
+}
+
+.theme-card {
+  border-radius: var(--card-radius);
+  box-shadow: var(--shadow-soft);
+}
