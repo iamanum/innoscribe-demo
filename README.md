@@ -105,17 +105,19 @@ src/
 │  └─ ChatInterface.tsx
 └─ lib/
    └─ actionParser.ts
-🚀 Getting Started
-1️⃣ Clone the Repository
+
+
+🚀 **Getting Started**
+1️⃣ **Clone the Repository**
 bash
 Copy code
 git clone https://github.com/your-username/innoscribe-command-center.git
 cd innoscribe-command-center
-2️⃣ Install Dependencies
+2️⃣ **Install Dependencies**
 bash
 Copy code
 npm install
-3️⃣ Run Development Server
+3️⃣ **Run Development Server**
 bash
 Copy code
 npm run dev
@@ -126,26 +128,27 @@ bash
 Copy code
 npm run build
 npm run start
-🎯 Demo Flow (Recommended)
-➕ Add a Client
+
+🎯 **Demo Flow (Recommended)**
+➕ **Add a Client**
 text
 Copy code
 Add client Robinson from Innoscribe
 ✔ Client appears instantly on the dashboard.
 
-📅 Schedule a Meeting
+📅 **Schedule a Meeting**
 text
 Copy code
 Schedule a meeting with Robinson tomorrow at 10 AM
 ✔ Meeting is created and displayed live.
 
-📈 Analyze System Status
+📈 **Analyze System Status**
 text
 Copy code
 Analyze system status
 ✔ Dashboard updates with “System Optimized” feedback.
 
-📌 Important Notes
+📌 **Important Notes**
 This is a front-end simulation demo (no backend or database).
 
 All state changes are handled via React.
@@ -160,7 +163,7 @@ Client interviews & sales presentations
 
 Rapid proof-of-capability delivery
 
-👩‍💻 Author
+👩‍💻 **Author**
 Anum Munir
 Founder · Product Owner · Agentic AI Architect
 
